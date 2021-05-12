@@ -3,6 +3,7 @@ hello git!
 
 hello git!:wq
 :wq
-:wq
+:wq2222:wq
+
 :wq
 

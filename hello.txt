@@ -1,9 +1,10 @@
-
 hello git!
-
-hello git!:wq
-:wq
-:wq2222:wq
-master test
-:wq
-master test
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
